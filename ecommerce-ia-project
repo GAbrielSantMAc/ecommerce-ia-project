@@ -1,0 +1,32 @@
+# E-commerce Inteligente com Recomendações por IA
+
+Este repositório contém o (código-base / protótipo) de uma plataforma de e-commerce inovadora, projetada para personalizar a experiência do usuário através de um sistema de recomendação baseado em Inteligência Artificial.
+
+## Funcionalidades Chave
+
+-   **Catálogo de Produtos Dinâmico:** Exibição organizada de produtos.
+-   **Sistema de Recomendação:** Sugestões de produtos personalizadas para cada usuário, impulsionadas por algoritmos de Machine Learning.
+-   **Carrinho de Compras e Checkout:** Fluxo padrão de e-commerce para aquisição de produtos.
+-   **Painel Administrativo:** Gestão de produtos, pedidos e usuários.
+
+## Tecnologias Envolvidas (Simulação)
+
+-   **Frontend:** React.js, HTML, CSS
+-   **Backend:** Node.js (Express.js)
+-   **Banco de Dados:** MongoDB
+-   **Inteligência Artificial:** Python (Scikit-learn, Pandas)
+
+## Estrutura do Repositório (Exemplo)
+
+-   `src/`: Contém o código-fonte da aplicação (componentes, rotas, lógica de IA).
+-   `public/`: Arquivos estáticos.
+-   `README.md`: Este arquivo.
+
+## Visualização Detalhada do Projeto
+
+Para uma descrição mais aprofundada, objetivos e arquitetura do projeto, consulte o documento principal no Google Drive:
+
+[**Link para o Google Docs: Descricao_Projeto_E-commerce_IA.docx**](https://docs.google.com/document/d/1S52m9uFcY8hFY1j6CkRjN2RJVVVclYt_NBpDjrhxOuw/edit?usp=sharing)
+
+---
+*Este é um projeto fictício criado para demonstrar habilidades em integração e gestão de portfólios.*
